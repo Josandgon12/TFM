@@ -1,4 +1,4 @@
-# TFM - Análisis de Imágenes Médicas (YOLO, VGG & Xception)
+# TFM - Explicabilidad en sistemas de inteligencia artificial para la detección de tumores
 
 Este repositorio contiene el código y la documentación correspondiente al Trabajo de Fin de Máster (TFM) sobre el análisis y clasificación de imágenes médicas utilizando arquitecturas de Deep Learning.
 
