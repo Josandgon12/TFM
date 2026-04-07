@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Project Specific - Large Files
+*.keras
+*.h5
+*.weights
+*.pt
+*.pth
+
+# Datasets
+datasets/
+DataSet/
+testData/
+Files/
+legacy/
+weights/
+
+# OS
+.DS_Store
+Thumbs.db
